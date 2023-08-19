@@ -1,0 +1,21 @@
+@charset "UTF-8";
+html
+{
+	border:0px;
+	margin:0px;
+}
+.col-md-12
+{
+	padding: 20px 30px;
+}
+.gray
+{
+	background-color: grey;
+}
+
+.logo_text_design
+{
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+}
